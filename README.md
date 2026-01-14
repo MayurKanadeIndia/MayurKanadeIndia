@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋 I'm Mayur Kanade and I am a Platform Engineer From India!</h1>
+<h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c2ae07a1-73d4-4aaa-a59c-675da4f7bc16" />
+ I'm Mayur Kanade !!! </h1>
+<h1 align="center"> Platform Engineer From <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6d33b26b-5898-4072-9e5f-f6dc70c920f8" />
+ India !!!
+</h1>
 
 ###
 
